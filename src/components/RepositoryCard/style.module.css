@@ -1,0 +1,10 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: auto 8fr auto;
+    gap: 1px 1px;
+    grid-template-areas: ". . ." ". . ." ". . .";
+    font-family: 'Lato', sans-serif;
+    background-color: purple;
+}
+

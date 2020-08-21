@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GitHubSearcher-deploy/static/css/main.33ca8497.chunk.css",
+    "main.js": "/GitHubSearcher-deploy/static/js/main.11083259.chunk.js",
+    "main.js.map": "/GitHubSearcher-deploy/static/js/main.11083259.chunk.js.map",
+    "runtime-main.js": "/GitHubSearcher-deploy/static/js/runtime-main.9fb99765.js",
+    "runtime-main.js.map": "/GitHubSearcher-deploy/static/js/runtime-main.9fb99765.js.map",
+    "static/js/2.8734e7e4.chunk.js": "/GitHubSearcher-deploy/static/js/2.8734e7e4.chunk.js",
+    "static/js/2.8734e7e4.chunk.js.map": "/GitHubSearcher-deploy/static/js/2.8734e7e4.chunk.js.map",
+    "index.html": "/GitHubSearcher-deploy/index.html",
+    "precache-manifest.1e7f6f8493f2fde31883d618e7e621d4.js": "/GitHubSearcher-deploy/precache-manifest.1e7f6f8493f2fde31883d618e7e621d4.js",
+    "service-worker.js": "/GitHubSearcher-deploy/service-worker.js",
+    "static/css/main.33ca8497.chunk.css.map": "/GitHubSearcher-deploy/static/css/main.33ca8497.chunk.css.map",
+    "static/js/2.8734e7e4.chunk.js.LICENSE.txt": "/GitHubSearcher-deploy/static/js/2.8734e7e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb99765.js",
+    "static/js/2.8734e7e4.chunk.js",
+    "static/css/main.33ca8497.chunk.css",
+    "static/js/main.11083259.chunk.js"
+  ]
+}

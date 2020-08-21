@@ -1,0 +1,17 @@
+.wrapper{
+    position: relative;
+    padding-bottom: 50px;
+    left: 10%;
+}
+
+.submitButton{
+    position: relative;
+    left: 25rem;
+    bottom: 65px;
+    background-color: white;
+}
+
+.SearchBar{
+    width: 200px;
+}
+

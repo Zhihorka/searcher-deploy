@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: auto 8fr auto;
+    gap: 1px 1px;
+    grid-template-areas: ". se ." ". re ." ". pa .";
+    font-family: 'Lato', sans-serif;
+}
+
+.SearchBar{
+    grid-area: se;
+    height: 60px;
+}
+.RepositoriesLis{
+    grid-area: re;
+}
+
+.Paginator{
+    grid-area: pa;
+    margin: auto;
+}
+
+.repositories{
+    border-style: solid;
+    border-color: #13b4d4;
+    border-radius: 18px 18px 18px 18px;
+    margin-bottom: 20px;
+}
+
+
+
+.Paginator ul{
+    list-style: none; 
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+
+
+.Paginator li{
+    display: inline;
+    padding: 5px 5px 5px 5px;
+    border-style: solid;
+    border-color: #13b4d4;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 10px;
+    
+}
+
+.Paginator a{
+    text-decoration: none;
+    font-weight: 500;
+    color: #0a434e;
+}
+
+
+.active{
+    background-color:  #13b4d4;
+    border-color: #13b4d4;
+}
+
+.active a{
+    color: white;
+}
+
+
+/*карточка проекта*/
+
+.name{
+    position: relative;
+    left: 6%;
+    font-size: 30px;
+    top: 50px;
+    color: #13b4d4;
+}
+
+.fullName{
+    position: relative;
+    left: 6%;
+    top: 50px;
+}
+
+
+.signText{
+    position: relative;
+    text-align: center;
+    color: #525252;
+}
+
+.pushedDate{
+    position: relative;
+    text-align: center;
+    color: #525252;
+}
+
+
+.starIcon{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 60%;
+    bottom: 25px;
+}
+
+.starsCount{
+    position: relative;
+    left: 70%;
+    bottom: 100px;
+    font-size: 30px;
+}
+
